@@ -18,8 +18,12 @@ Python 3.x
 The "requests" library
 
 Installation & Setup
-Clone the repository:
-git clone [https://github.com/yourusername/Quizzer-app.git](https://github.com/yourusername/Quizzer-app.git)cd Quizzer-app
+
+Clone the repository: 
+git clone https://github.com/tejasksahu/Quizzer_app
+
+To Open the Directory:
+cd Quizzer-app
 
 Install dependencies:
 pip install requests
