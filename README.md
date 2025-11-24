@@ -7,7 +7,7 @@ Interactive GUI: Built with Tkinter, featuring a responsive canvas that changes 
 Score Tracking:  Keeps track of the user's score in real-time.  
 
 Project Structure  
-main.py:           The entry point of the application. Set up the flow b etween data, the quiz model, and the UI.  
+main.py:           The entry point of the application. Set up the flow between data, the quiz model, and the UI.  
 ui.py:             Handles the Tkinter Graphical User Interface, including the window, canvas, buttons, and event loop.  
 quiz_brain.py:     Contains the QuizBrain class which manages the game state (score, question number, checking answers).  
 data.py:           Handles the API connection to opentdb.com to fetch question data.  
