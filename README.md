@@ -34,11 +34,11 @@ true.png (Checkmark icon)
 false.png (Cross icon)
 
 Usage
-Run the file main.py
-Read the question displayed on the card.
-Press the Green Check button for "True" or the Red X button for "False".
-The screen will flash Green (Correct) or Red (Wrong).
-Try to get a perfect 10/10 score!
+Run the file main.py  
+Read the question displayed on the card.  
+Press the Green Check button for "True" or the Red X button for "False".  
+The screen will flash Green (Correct) or Red (Wrong).  
+Try to get a perfect 10/10 score!  
 
 API Reference
 This project uses the Open Trivia DB API.
